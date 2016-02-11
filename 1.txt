@@ -1,0 +1,216 @@
+Delivered-To: buddhdevjay@gmail.com
+Received: by 10.202.197.74 with SMTP id v71csp798189oif;
+        Tue, 17 Nov 2015 08:50:47 -0800 (PST)
+X-Received: by 10.28.189.5 with SMTP id n5mr3970708wmf.76.1447779047384;
+        Tue, 17 Nov 2015 08:50:47 -0800 (PST)
+Return-Path: <listbusboom@gxsmail.com>
+Received: from vps20250.managemyvps.com ([66.11.239.18])
+        by mx.google.com with ESMTPS id v10si513590wjx.223.2015.11.17.08.50.46
+        for <buddhdevjay@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Tue, 17 Nov 2015 08:50:47 -0800 (PST)
+Received-SPF: neutral (google.com: 66.11.239.18 is neither permitted nor denied by best guess record for domain of listbusboom@gxsmail.com) client-ip=66.11.239.18;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 66.11.239.18 is neither permitted nor denied by best guess record for domain of listbusboom@gxsmail.com) smtp.mailfrom=listbusboom@gxsmail.com
+Received: from [127.0.0.1] (port=51860 helo=busboom.gxsmail.com)
+	by vps20250.managemyvps.com with esmtp (Exim 4.86)
+	(envelope-from <listbusboom@gxsmail.com>)
+	id 1ZyjSv-0007NA-RI
+	for buddhdevjay@gmail.com; Tue, 17 Nov 2015 11:50:46 -0500
+Message-ID: <1447779045.564b5ae5cd570@busboom.gxsmail.com>
+Date: Tue, 17 Nov 2015 11:50:45 -0500
+Subject: Housing for UTD Students on Bus Line
+From: Student Housing <McCallum.Leasing@busboomgroup.com>
+Reply-To: McCallum.Leasing@busboomgroup.com
+To: Jay Buddhdev <buddhdevjay@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SID: 97507SIDEND
+X-xsMessageId: 97507
+X-xsMailingId: gxs-582
+X-CMP: 582CMPEND
+X-Priority: 3 (Normal)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps20250.managemyvps.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - gxsmail.com
+X-Get-Message-Sender-Via: vps20250.managemyvps.com: acl_c_authenticated_local_user: busboomg
+X-Authenticated-Sender: vps20250.managemyvps.com: busboomg
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>		<meta http-equiv=3D=
+"Content-Type" content=3D"text/html; charset=3Dutf-8"></meta>	<meta name=
+=3D"Viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0"></me=
+ta>	<style type=3D"text/css">	<!--	body { color:#70635a; font-size:12px; f=
+ont-family:'Myriad Pro', "HelveticaNeue-Light", "Helvetica Neue Light", =
+"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-we=
+ight: 300; } a { word-break: break-word; text-decoration:none; padding: =
+0; } a img { border:none; } img { outline:none; text-decoration:none; -m=
+s-interpolation-mode: bicubic; } body { width: 100% !important; -webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; } table { border-col=
+lapse: collapse; } td, tr { padding:0; margin:0; } p { margin:0; }	-->	<=
+/style>	<!--	[if gte mso 9]><style type=3D"text/css" id=3D"Mail Designer=
+ Outlook Style Sheet"> .mso-fixed-width { width: 616px !important; } .ms=
+o-fixed-width-wrapping-table { width: 616px !important; } table.layout-b=
+lock-horizontal-spacer { display: none !important; } table { border-coll=
+apse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; mso-table-bsp=
+ace:0pt; mso-table-tspace:0pt; mso-padding-alt:0; mso-table-top:0; mso-t=
+able-wrap:around; } td { border-collapse:collapse; mso-cellspacing:0; } =
+</style><![endif]	-->		<meta http-equiv=3D"Content-Type" content=3D"text=
+/html; charset=3Dutf-8"></meta>	<meta name=3D"GENERATOR" content=3D"MSHTML=
+ 11.00.9600.17344"></meta></head><body style=3D"margin: 0px auto; padding:=
+ 0px; width: 650px;">	<table align=3D"center" style=3D"margin: auto; wid=
+th: 645px;">		<tbody>			<tr>				<td style=3D"padding: 5px 0px; text-align:=
+ center; font-size: 14px;"><a style=3D"color: rgb(66, 139, 202); text-deco=
+ration: none;" href=3D"http://busboom.gxsmail.com/subscriber/optOut.ph=
+p?c=3D582&e2=3Da9cdb796989595a7b1b9cc72979e919ab386b6a19d&a=3D2">Unsubscri=
+be</a> | Having trouble viewing this email? <a style=3D"color: rgb(66, 139=
+, 202); text-decoration: none;" href=3D"http://busboom.gxsmail.com/subscri=
+ber/newsletter.php?sid=3D97507&c=3D582&h=3D36&t=3D0">Click here.</a></td=
+>			</tr>		</tbody>	</table>	<table align=3D"center" style=3D"margin: au=
+to; border: 1px solid black; border-image: none; width: 650px;">		<!--		=
+SPACER		-->				<tbody>			<tr>				<td style=3D"width: 100%; text-align: cen=
+ter; line-height: 25px;"></td>			</tr>			<!--			LOGO			-->						<tr>				=
+<td style=3D"width: 100%; text-align: center;"><img src=3D"http://busboo=
+m.gxsmail.com/assets/fall_2014_templates/images/McCallum_02.png" /></td>=
+			</tr>			<!--			GRAY BAR			-->						<tr>				<td valign=3D"center" st=
+yle=3D"width: 100%; height: 50px; text-align: center; background-color: rg=
+b(112, 99, 90);">					<p style=3D"color: white; letter-spacing: 5px; font-=
+family: Times, serif; font-size: 19px;" href=3D"http://busboom.gxsmail.com=
+/inc/rdr.php?r=3D97507c582c2">McCALLUM GLEN - McCALLUM COURTS</p></td>			<=
+/tr>			<!--			SPACER			-->						<tr>				<td style=3D"line-height: 10px;"><=
+/td>			</tr>			<!--			NOW LEASING			-->						<tr>				<td><img style=3D"mar=
+gin: auto;" src=3D"http://busboom.gxsmail.com/assets/fall_2014_templates/i=
+mages/McCallum-EmailTemplate2_02.png" /></td>			</tr>			<!--			SPACER			=
+-->						<tr>				<td style=3D"line-height: 15px;"></td>			</tr>			<!--			M=
+AIN BODY			-->						<tr>				<td>					<p style=3D"text-align: center; line-=
+height: 55px; font-family: 'Rock', Times, serif; font-size: 36px;">Apart=
+ments for Rent</p>					<p style=3D"text-align: center; font-size: 18px;"><=
+span style=3D"color: rgb(112, 99, 90);">$35 Application Fee - </span><span=
+ style=3D"color: rgb(156, 132, 48);">Credited back upon move in!</span></p=
+>					<p style=3D"text-align: center; font-size: 18px;"><span style=3D"c=
+olor: rgb(255, 0, 0);">Student Special: Refer your friends, get $300. Co=
+ntact us about other specials!<br />							1st month's rent free with a =
+12 month lease if you reserve your apartment now! <br />							Hurry! We=
+'re booking up quickly for this Spring! </span></p>					<p style=3D"text-a=
+lign: center;"><span style=3D"font-size: 10pt; font-style: italic; color: =
+rgb(0, 0, 0);">Come see why the only two Busboom Group properties on McC=
+allum are different from the rest! </span></p></td>			</tr>			<!--			SPA=
+CER			-->						<tr>				<td style=3D"line-height: 15px;"></td>			</tr>			<t=
+r>				<td>					<table style=3D"width: 100%;">						<tbody>							<tr>					=
+			<td style=3D"width: 7.5%;"></td>								<td style=3D"width: 85%;">			=
+						<table style=3D"width: 100%;">										<!--										RIBBON GRAPHIC=
+										-->																				<tbody>											<tr>												<td>	=
+												<table style=3D"width: 100%;">														<tbody>											=
+				<tr>																<td style=3D"width: 35px; height: 56px;"><img =
+src=3D"http://busboom.gxsmail.com/assets/fall_2014_templates/images/ribbon=
+-left.png" /></td>																<td valign=3D"middle" style=3D"height:=
+ 56px; text-align: center; color: white; font-size: 34px; font-weight: b=
+old; background-color: rgb(142, 126, 55);"> STARTING AT $665/MONTH </td>=
+																<td style=3D"width: 35px; height: 56px;"><img src=3D"htt=
+p://busboom.gxsmail.com/assets/fall_2014_templates/images/ribbon-right.p=
+ng" /></td>															</tr>														</tbody>													</tabl=
+e></td>											</tr>											<!--											SPACER											-->			=
+																			<tr>												<td style=3D"line-height: 10px;"></td>	=
+										</tr>											<!--											LEASING TEXT											-->					=
+																	<tr>												<td>													<p style=3D"text-align: =
+center; font-size: 11px;">INSTANT APPROVAL FOR UTD STUDENTS =E2=80=A2 LE=
+ASING OFFICE LOCATED BY MCCALLUM GLEN POOL</p><br style=3D"line-height: 40=
+px;" />																										<p style=3D"width: 100%; text-align: cent=
+er; color: rgb(156, 132, 48); font-size: 24px; border-bottom-color: rgb(=
+112, 99, 90); border-bottom-width: 4px; border-bottom-style: solid;">Fea=
+tures</p></td>											</tr>											<!--											SPACER										=
+	-->																						<tr>												<td style=3D"line-height: 15px;"=
+></td>											</tr>											<!--											FEATURES											-->		=
+																				<tr>												<td>													<table style=3D"margi=
+n: auto; width: 100%; line-height: 24px; font-size: 13.5px;">											=
+			<tbody>															<tr>																<td style=3D"width: 50%;">Swi=
+mming Pools</td>																<td style=3D"width: 50%; text-align: right=
+;">Breakfast Bar</td>															</tr>															<tr>												=
+				<td style=3D"width: 50%;">Fitness Center</td>																<td style=
+=3D"width: 50%; text-align: right;">Fireplace</td>															</tr>				=
+											<tr>																<td style=3D"width: 50%;">Laundry Center</t=
+d>																<td style=3D"width: 50%; text-align: right;">Washer/Drye=
+r connections</td>															</tr>															<tr>															=
+	<td style=3D"width: 50%;">4 ZipCars on Site - No need for a car!<br />			=
+														</td>																<td style=3D"width: 50%; text-align: ri=
+ght;">Walk-in Closets</td>															</tr>															<tr>							=
+									<td style=3D"width: 50%;">DART Bus and UTD Shuttle</td>										=
+						<td style=3D"width: 50%; text-align: right;">Built-in Microwave</td>=
+															</tr>															<tr>																<td style=3D"width:=
+ 50%;">Business Center</td>																<td style=3D"width: 50%; text-a=
+lign: right;">Dishwasher</td>															</tr>															<tr>				=
+												<td style=3D"width: 50%;">Near Major Highways</td>												=
+				<td style=3D"width: 50%; text-align: right;">Central Heat &amp; AC</td=
+>															</tr>															<tr>																<td style=3D"width=
+: 50%;">24 Hr Emergency Maintenance</td>																<td style=3D"width=
+: 50%; text-align: right;">Patio w/Outdoor Storage</td>															</=
+tr>															<tr>																<td style=3D"width: 50%;">On-Site Co=
+urtesy Patrol Officer</td>																<td style=3D"width: 50%; text-al=
+ign: right;">High Speed Internet available</td>															</tr>					=
+										<tr>																<td style=3D"width: 50%;">Covered and Reserv=
+ed Parking Available</td>																<td style=3D"width: 50%; text-ali=
+gn: right;">Cable TV available</td>															</tr>														</t=
+body>													</table></td>											</tr>											<!--										=
+	DIVIDER BAR											-->																						<tr>												<td><img=
+ src=3D"http://busboom.gxsmail.com/assets/fall_2014_templates/images/botto=
+m-line.png" /></td>											</tr>											<!--											SOCIAL NETW=
+ORKING											-->																						<tr>												<td style=3D"wid=
+th: 100%;">													<table style=3D"width: 100%;">														<tbody=
+>															<tr>																<td valign=3D"middle" style=3D"width=
+: 36px;"><a href=3D"http://busboom.gxsmail.com/inc/rdr.php?r=3D97507c582=
+c13"><img src=3D"http://busboom.gxsmail.com/assets/fall_2014_templates/ima=
+ges/fb-logo.png" border=3D"0" /></a></td>																<td valign=3D"m=
+iddle" style=3D"text-align: center;"><a style=3D"font-size: 19px; color:=
+ rgb(156, 133, 48);" href=3D"http://busboom.gxsmail.com/inc/rdr.php?r=3D=
+97507c582c11">mccallum.leasing@busboomgroup.com</a><br />															=
+		<span style=3D"font-size: 10pt;">Online Chat with us via our website for=
+ instant responses!</span><br />																	</td>																<t=
+d valign=3D"middle" style=3D"width: 141px;"><img src=3D"http://busboom.gxs=
+mail.com/assets/fall_2014_templates/images/credit-cards.png" /></td>				=
+											</tr>														</tbody>													</table></td>								=
+			</tr>										</tbody>									</table></td>								<td style=3D"width=
+: 7.5%;"></td>							</tr>						</tbody>					</table></td>			</tr>			<!-=
+-			SPACER			-->						<tr>				<td style=3D"margin: 0px; padding: 0px; heig=
+ht: 5px; line-height: 12px;"></td>			</tr>			<!--			URL & PHONE			-->			=
+			<tr>				<td valign=3D"center" style=3D"height: 50px; text-align: cent=
+er; letter-spacing: 0px; font-size: 20px; background-color: rgb(112, 99,=
+ 90);"><a style=3D"color: white;" href=3D"http://busboom.gxsmail.com/inc=
+/rdr.php?r=3D97507c582c2">www.mccallumcommunities.com</a><span style=3D"=
+color: white;">972.381.8925</span></td>			</tr>			<!--			FOOTER			-->			=
+			<tr>				<td>					<table width=3D"100%">						<tbody>							<tr>								=
+<td style=3D"width: 5%;"></td>								<td style=3D"width: 90%;">								=
+	<table style=3D"width: 100%;">										<tbody>											<tr>											=
+	<td style=3D"line-height: 30px;"></td>											</tr>											<tr>				=
+								<td style=3D"width: 35%; color: rgb(112, 99, 90); line-height: 16p=
+x; font-size: 14px; vertical-align: top; border-right-color: rgb(112, 99=
+, 90); border-right-width: 2px; border-right-style: solid;">												=
+	<p style=3D"font-weight: bold;"><a style=3D"color: rgb(112, 99, 90);" h=
+ref=3D"http://busboom.gxsmail.com/inc/rdr.php?r=3D97507c582c14">McCallum=
+ Glen</a></p>													<p>7740 McCallum Blvd.</p>													<p>Dall=
+as, Texas 75252</p>													<p>(972) 381-8925</p><br />													=
+													<p style=3D"font-weight: bold;"><a style=3D"color: rgb(112,=
+ 99, 90);" href=3D"http://busboom.gxsmail.com/inc/rdr.php?r=3D97507c582c=
+15">McCallum Courts</a></p>													<p>7777 McCallum Blvd.</p>						=
+							<p>Dallas, Texas 75252</p>													<p>(972) 248-2626</p></td>=
+												<td style=3D"width: 20px;"></td>												<td style=3D"col=
+or: rgb(112, 99, 90); line-height: 16px; font-size: 13px; vertical-align=
+: top;"><span style=3D"font-weight: bold;">Directions from UTD:</span><br =
+/>													<br />													Take the free UTD shuttle bus 883 to M=
+cCallum Blvd. McCallum Courts Apartments are immediately to the west of =
+the bus stop and McCallum Glen Apartments are across the street. <br />	=
+												<br />													If driving from UTD, take Campbell Road w=
+est to Coit Road. Turn right on Coit, go a half-mile and turn left on Mc=
+callum Blvd. McCallum Courts Apartments are 200 yards on the right and M=
+cCallum Glen Apartments are 200 yards on the left. </td>											</tr>=
+											<tr>												<td style=3D"line-height: 30px;"></td>									=
+		</tr>										</tbody>									</table></td>								<td style=3D"width:=
+ 5%;"></td>							</tr>						</tbody>					</table></td>			</tr>		</tbody=
+>	</table>	<table style=3D"width: 100%;">		<!--		UNSUBSCRIBE		-->				<tbod=
+y>			<tr>				<td style=3D"width: 100%; text-align: center;"><a style=3D"=
+width: 100%; text-align: center; color: black;" href=3D"http://busboom.gxs=
+mail.com/subscriber/optOut.php?c=3D582&e2=3Da9cdb796989595a7b1b9cc72979e=
+919ab386b6a19d&a=3D2">Unsubscribe</a></td>			</tr>		</tbody>	</table><img =
+src=3D"http://busboom.gxsmail.com/inc/or.php?sid=3D97507&c=3D582" widt=
+h=3D"1" height=3D"1"></body></html>
